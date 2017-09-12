@@ -1,0 +1,36 @@
+body {
+    font-family: "calibri", sans-serif;
+    color:#FAFAFA  ;
+    margin: 0;
+  }
+
+header{
+	margin:0;
+	padding: 25px;
+	background-color:#616161; 
+}
+/*styling for the search button*/
+button{
+  width: 150px;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 30px;
+  letter-spacing: 0.1em;
+  color: #e8e8e8;
+  border: none;
+  border-radius: 10px;
+  outline: none;
+  background: linear-gradient(135deg,#FF6D6D  ,#CC0000  );
+  background-size: 400% 400%;
+  cursor: pointer;
+  margin: 12px;
+}
+/*styling for the input field*/
+#product{
+	height: 30px;
+	width: 250px;
+	font-size:large;
+	color: #17202A ;
+  background-color: #fdf5e6;
+  padding: 12px;
+  border:none;
+}
