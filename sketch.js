@@ -1,4 +1,4 @@
-var api = "http://exercise.wandome.com/offer/list?keyword=";// this varibale that holds the url
+var api = "http://exercise.wandome.com/offer/list?keyword=";// this varibale holds the url
 var apiKey = "&token=1234567890abcd.12345678";// this variable holds the api key 
 var input; // this is the variable for taking in the user input
 
